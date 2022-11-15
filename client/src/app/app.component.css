@@ -1,0 +1,21 @@
+.red {
+    background-color: red;
+    color: aqua;
+    height: 50px;
+    width: 100px
+}
+
+.orange {
+    background-color: orange;
+    height: 50px;
+}
+
+.yellow {
+    background-color: yellow;
+    height: 50px;
+}
+
+.green {
+    background-color: green;
+    height: 50px;
+}
