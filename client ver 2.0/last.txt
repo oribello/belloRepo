@@ -1,0 +1,22 @@
+// let gnrArr = [];
+      // let tmpArr = [];
+      // return parsedData
+      //for (let itr = 0; itr < 45; itr++) {
+        // if ((!!this.prvDataArr[itr] && (this.prvDataArr[itr]).type) !== (!!parsedData[itr]&&(parsedData[itr]).type)) {
+        //   parsedData[itr].changed = true;
+        // }
+       
+        // if (!parsedData[itr]) {
+        //   gnrArr.push({
+        //     id: itr,
+        //     type: this.prvDataArr[itr] ? this.prvDataArr[itr].type : -1,
+        //     changed: false
+        //   })
+        // }
+        // else {
+        //   gnrArr.push(parsedData[itr]);
+        //   // console.log(gnrArr);
+        // }
+
+      //}
+      //this.prvDataArr = gnrArr;
